@@ -2,7 +2,9 @@ library(shiny)
 library(tidyverse)
 library(shinythemes)
 
-source("~/Documents/Github/twg/card_pack/cards.R")
+#source("~/Documents/Github/twg/card_pack/cards.R")
+
+bronze <- read_csv("bronze.csv")
 
 # Define UI for dataset viewer app ----
 ui <- fluidPage(
