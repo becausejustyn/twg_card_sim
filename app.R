@@ -2,7 +2,7 @@ library(shiny)
 library(tidyverse)
 library(shinythemes)
 
-source("~/Documents/Github/twg/card_pack/cards.R")
+source("~/Documents/Github/twg/twg_card_sim/cards.R")
 
 # Define UI for dataset viewer app ----
 ui <- fluidPage(
@@ -85,5 +85,7 @@ server <- function(input, output) {
 shinyApp(ui, server)
 
 #runGitHub("becausejustyn/twg/card_pack")
+
+"becausejustyn/twg_card_sim"
 
 #https://github.com/becausejustyn/twg/tree/main/card_pack
