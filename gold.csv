@@ -1,0 +1,733 @@
+Base Stats,Boosted Stat,Energy Cost
+Attack Bonus,Bleed Bonus,3
+Attack Bonus,Bleed Bonus,4
+Attack Bonus,Bleed Bonus,5
+Attack Bonus,Bleed Bonus,6
+Attack Bonus,Block,3
+Attack Bonus,Block,4
+Attack Bonus,Block,5
+Attack Bonus,Block,6
+Attack Bonus,Damage Reducer,3
+Attack Bonus,Damage Reducer,4
+Attack Bonus,Damage Reducer,5
+Attack Bonus,Damage Reducer,6
+Attack Bonus,DDI,3
+Attack Bonus,DDI,4
+Attack Bonus,DDI,5
+Attack Bonus,DDI,6
+Attack Bonus,Dodge,3
+Attack Bonus,Dodge,4
+Attack Bonus,Dodge,5
+Attack Bonus,Dodge,6
+Attack Bonus,Escape Sub,3
+Attack Bonus,Escape Sub,4
+Attack Bonus,Escape Sub,5
+Attack Bonus,Escape Sub,6
+Attack Bonus,Health Points,3
+Attack Bonus,Health Points,4
+Attack Bonus,Health Points,5
+Attack Bonus,Health Points,6
+Attack Bonus,Iniative,3
+Attack Bonus,Iniative,4
+Attack Bonus,Iniative,5
+Attack Bonus,Iniative,6
+Attack Bonus,Pin Bonus,3
+Attack Bonus,Pin Bonus,4
+Attack Bonus,Pin Bonus,5
+Attack Bonus,Pin Bonus,6
+Attack Bonus,Pin Opp,3
+Attack Bonus,Pin Opp,4
+Attack Bonus,Pin Opp,5
+Attack Bonus,Pin Opp,6
+Attack Bonus,SDI,3
+Attack Bonus,SDI,4
+Attack Bonus,SDI,5
+Attack Bonus,SDI,6
+Attack Bonus,Stamina,3
+Attack Bonus,Stamina,4
+Attack Bonus,Stamina,5
+Attack Bonus,Stamina,6
+Attack Bonus,Sub Bonus,3
+Attack Bonus,Sub Bonus,4
+Attack Bonus,Sub Bonus,5
+Attack Bonus,Sub Bonus,6
+Bleed Bonus,Attack Bonus,3
+Bleed Bonus,Attack Bonus,4
+Bleed Bonus,Attack Bonus,5
+Bleed Bonus,Attack Bonus,6
+Bleed Bonus,Block,3
+Bleed Bonus,Block,4
+Bleed Bonus,Block,5
+Bleed Bonus,Block,6
+Bleed Bonus,Damage Reducer,3
+Bleed Bonus,Damage Reducer,4
+Bleed Bonus,Damage Reducer,5
+Bleed Bonus,Damage Reducer,6
+Bleed Bonus,DDI,3
+Bleed Bonus,DDI,4
+Bleed Bonus,DDI,5
+Bleed Bonus,DDI,6
+Bleed Bonus,Dodge,3
+Bleed Bonus,Dodge,4
+Bleed Bonus,Dodge,5
+Bleed Bonus,Dodge,6
+Bleed Bonus,Escape Sub,3
+Bleed Bonus,Escape Sub,4
+Bleed Bonus,Escape Sub,5
+Bleed Bonus,Escape Sub,6
+Bleed Bonus,Health Points,3
+Bleed Bonus,Health Points,4
+Bleed Bonus,Health Points,5
+Bleed Bonus,Health Points,6
+Bleed Bonus,Iniative,3
+Bleed Bonus,Iniative,4
+Bleed Bonus,Iniative,5
+Bleed Bonus,Iniative,6
+Bleed Bonus,Pin Bonus,3
+Bleed Bonus,Pin Bonus,4
+Bleed Bonus,Pin Bonus,5
+Bleed Bonus,Pin Bonus,6
+Bleed Bonus,Pin Opp,3
+Bleed Bonus,Pin Opp,4
+Bleed Bonus,Pin Opp,5
+Bleed Bonus,Pin Opp,6
+Bleed Bonus,SDI,3
+Bleed Bonus,SDI,4
+Bleed Bonus,SDI,5
+Bleed Bonus,SDI,6
+Bleed Bonus,Stamina,3
+Bleed Bonus,Stamina,4
+Bleed Bonus,Stamina,5
+Bleed Bonus,Stamina,6
+Bleed Bonus,Sub Bonus,3
+Bleed Bonus,Sub Bonus,4
+Bleed Bonus,Sub Bonus,5
+Bleed Bonus,Sub Bonus,6
+Block,Attack Bonus,3
+Block,Attack Bonus,4
+Block,Attack Bonus,5
+Block,Attack Bonus,6
+Block,Bleed Bonus,3
+Block,Bleed Bonus,4
+Block,Bleed Bonus,5
+Block,Bleed Bonus,6
+Block,Damage Reducer,3
+Block,Damage Reducer,4
+Block,Damage Reducer,5
+Block,Damage Reducer,6
+Block,DDI,3
+Block,DDI,4
+Block,DDI,5
+Block,DDI,6
+Block,Dodge,3
+Block,Dodge,4
+Block,Dodge,5
+Block,Dodge,6
+Block,Escape Sub,3
+Block,Escape Sub,4
+Block,Escape Sub,5
+Block,Escape Sub,6
+Block,Health Points,3
+Block,Health Points,4
+Block,Health Points,5
+Block,Health Points,6
+Block,Iniative,3
+Block,Iniative,4
+Block,Iniative,5
+Block,Iniative,6
+Block,Pin Bonus,3
+Block,Pin Bonus,4
+Block,Pin Bonus,5
+Block,Pin Bonus,6
+Block,Pin Opp,3
+Block,Pin Opp,4
+Block,Pin Opp,5
+Block,Pin Opp,6
+Block,SDI,3
+Block,SDI,4
+Block,SDI,5
+Block,SDI,6
+Block,Stamina,3
+Block,Stamina,4
+Block,Stamina,5
+Block,Stamina,6
+Block,Sub Bonus,3
+Block,Sub Bonus,4
+Block,Sub Bonus,5
+Block,Sub Bonus,6
+Damage Reducer,Attack Bonus,3
+Damage Reducer,Attack Bonus,4
+Damage Reducer,Attack Bonus,5
+Damage Reducer,Attack Bonus,6
+Damage Reducer,Bleed Bonus,3
+Damage Reducer,Bleed Bonus,4
+Damage Reducer,Bleed Bonus,5
+Damage Reducer,Bleed Bonus,6
+Damage Reducer,Block,3
+Damage Reducer,Block,4
+Damage Reducer,Block,5
+Damage Reducer,Block,6
+Damage Reducer,DDI,3
+Damage Reducer,DDI,4
+Damage Reducer,DDI,5
+Damage Reducer,DDI,6
+Damage Reducer,Dodge,3
+Damage Reducer,Dodge,4
+Damage Reducer,Dodge,5
+Damage Reducer,Dodge,6
+Damage Reducer,Escape Sub,3
+Damage Reducer,Escape Sub,4
+Damage Reducer,Escape Sub,5
+Damage Reducer,Escape Sub,6
+Damage Reducer,Health Points,3
+Damage Reducer,Health Points,4
+Damage Reducer,Health Points,5
+Damage Reducer,Health Points,6
+Damage Reducer,Iniative,3
+Damage Reducer,Iniative,4
+Damage Reducer,Iniative,5
+Damage Reducer,Iniative,6
+Damage Reducer,Pin Bonus,3
+Damage Reducer,Pin Bonus,4
+Damage Reducer,Pin Bonus,5
+Damage Reducer,Pin Bonus,6
+Damage Reducer,Pin Opp,3
+Damage Reducer,Pin Opp,4
+Damage Reducer,Pin Opp,5
+Damage Reducer,Pin Opp,6
+Damage Reducer,SDI,3
+Damage Reducer,SDI,4
+Damage Reducer,SDI,5
+Damage Reducer,SDI,6
+Damage Reducer,Stamina,3
+Damage Reducer,Stamina,4
+Damage Reducer,Stamina,5
+Damage Reducer,Stamina,6
+Damage Reducer,Sub Bonus,3
+Damage Reducer,Sub Bonus,4
+Damage Reducer,Sub Bonus,5
+Damage Reducer,Sub Bonus,6
+DDI,Attack Bonus,3
+DDI,Attack Bonus,4
+DDI,Attack Bonus,5
+DDI,Attack Bonus,6
+DDI,Bleed Bonus,3
+DDI,Bleed Bonus,4
+DDI,Bleed Bonus,5
+DDI,Bleed Bonus,6
+DDI,Block,3
+DDI,Block,4
+DDI,Block,5
+DDI,Block,6
+DDI,Damage Reducer,3
+DDI,Damage Reducer,4
+DDI,Damage Reducer,5
+DDI,Damage Reducer,6
+DDI,Dodge,3
+DDI,Dodge,4
+DDI,Dodge,5
+DDI,Dodge,6
+DDI,Escape Sub,3
+DDI,Escape Sub,4
+DDI,Escape Sub,5
+DDI,Escape Sub,6
+DDI,Health Points,3
+DDI,Health Points,4
+DDI,Health Points,5
+DDI,Health Points,6
+DDI,Iniative,3
+DDI,Iniative,4
+DDI,Iniative,5
+DDI,Iniative,6
+DDI,Pin Bonus,3
+DDI,Pin Bonus,4
+DDI,Pin Bonus,5
+DDI,Pin Bonus,6
+DDI,Pin Opp,3
+DDI,Pin Opp,4
+DDI,Pin Opp,5
+DDI,Pin Opp,6
+DDI,SDI,3
+DDI,SDI,4
+DDI,SDI,5
+DDI,SDI,6
+DDI,Stamina,3
+DDI,Stamina,4
+DDI,Stamina,5
+DDI,Stamina,6
+DDI,Sub Bonus,3
+DDI,Sub Bonus,4
+DDI,Sub Bonus,5
+DDI,Sub Bonus,6
+Dodge,Attack Bonus,3
+Dodge,Attack Bonus,4
+Dodge,Attack Bonus,5
+Dodge,Attack Bonus,6
+Dodge,Bleed Bonus,3
+Dodge,Bleed Bonus,4
+Dodge,Bleed Bonus,5
+Dodge,Bleed Bonus,6
+Dodge,Block,3
+Dodge,Block,4
+Dodge,Block,5
+Dodge,Block,6
+Dodge,Damage Reducer,3
+Dodge,Damage Reducer,4
+Dodge,Damage Reducer,5
+Dodge,Damage Reducer,6
+Dodge,DDI,3
+Dodge,DDI,4
+Dodge,DDI,5
+Dodge,DDI,6
+Dodge,Escape Sub,3
+Dodge,Escape Sub,4
+Dodge,Escape Sub,5
+Dodge,Escape Sub,6
+Dodge,Health Points,3
+Dodge,Health Points,4
+Dodge,Health Points,5
+Dodge,Health Points,6
+Dodge,Iniative,3
+Dodge,Iniative,4
+Dodge,Iniative,5
+Dodge,Iniative,6
+Dodge,Pin Bonus,3
+Dodge,Pin Bonus,4
+Dodge,Pin Bonus,5
+Dodge,Pin Bonus,6
+Dodge,Pin Opp,3
+Dodge,Pin Opp,4
+Dodge,Pin Opp,5
+Dodge,Pin Opp,6
+Dodge,SDI,3
+Dodge,SDI,4
+Dodge,SDI,5
+Dodge,SDI,6
+Dodge,Stamina,3
+Dodge,Stamina,4
+Dodge,Stamina,5
+Dodge,Stamina,6
+Dodge,Sub Bonus,3
+Dodge,Sub Bonus,4
+Dodge,Sub Bonus,5
+Dodge,Sub Bonus,6
+Escape Sub,Attack Bonus,3
+Escape Sub,Attack Bonus,4
+Escape Sub,Attack Bonus,5
+Escape Sub,Attack Bonus,6
+Escape Sub,Bleed Bonus,3
+Escape Sub,Bleed Bonus,4
+Escape Sub,Bleed Bonus,5
+Escape Sub,Bleed Bonus,6
+Escape Sub,Block,3
+Escape Sub,Block,4
+Escape Sub,Block,5
+Escape Sub,Block,6
+Escape Sub,Damage Reducer,3
+Escape Sub,Damage Reducer,4
+Escape Sub,Damage Reducer,5
+Escape Sub,Damage Reducer,6
+Escape Sub,DDI,3
+Escape Sub,DDI,4
+Escape Sub,DDI,5
+Escape Sub,DDI,6
+Escape Sub,Dodge,3
+Escape Sub,Dodge,4
+Escape Sub,Dodge,5
+Escape Sub,Dodge,6
+Escape Sub,Health Points,3
+Escape Sub,Health Points,4
+Escape Sub,Health Points,5
+Escape Sub,Health Points,6
+Escape Sub,Iniative,3
+Escape Sub,Iniative,4
+Escape Sub,Iniative,5
+Escape Sub,Iniative,6
+Escape Sub,Pin Bonus,3
+Escape Sub,Pin Bonus,4
+Escape Sub,Pin Bonus,5
+Escape Sub,Pin Bonus,6
+Escape Sub,Pin Opp,3
+Escape Sub,Pin Opp,4
+Escape Sub,Pin Opp,5
+Escape Sub,Pin Opp,6
+Escape Sub,SDI,3
+Escape Sub,SDI,4
+Escape Sub,SDI,5
+Escape Sub,SDI,6
+Escape Sub,Stamina,3
+Escape Sub,Stamina,4
+Escape Sub,Stamina,5
+Escape Sub,Stamina,6
+Escape Sub,Sub Bonus,3
+Escape Sub,Sub Bonus,4
+Escape Sub,Sub Bonus,5
+Escape Sub,Sub Bonus,6
+Health Points,Attack Bonus,3
+Health Points,Attack Bonus,4
+Health Points,Attack Bonus,5
+Health Points,Attack Bonus,6
+Health Points,Bleed Bonus,3
+Health Points,Bleed Bonus,4
+Health Points,Bleed Bonus,5
+Health Points,Bleed Bonus,6
+Health Points,Block,3
+Health Points,Block,4
+Health Points,Block,5
+Health Points,Block,6
+Health Points,Damage Reducer,3
+Health Points,Damage Reducer,4
+Health Points,Damage Reducer,5
+Health Points,Damage Reducer,6
+Health Points,DDI,3
+Health Points,DDI,4
+Health Points,DDI,5
+Health Points,DDI,6
+Health Points,Dodge,3
+Health Points,Dodge,4
+Health Points,Dodge,5
+Health Points,Dodge,6
+Health Points,Escape Sub,3
+Health Points,Escape Sub,4
+Health Points,Escape Sub,5
+Health Points,Escape Sub,6
+Health Points,Iniative,3
+Health Points,Iniative,4
+Health Points,Iniative,5
+Health Points,Iniative,6
+Health Points,Pin Bonus,3
+Health Points,Pin Bonus,4
+Health Points,Pin Bonus,5
+Health Points,Pin Bonus,6
+Health Points,Pin Opp,3
+Health Points,Pin Opp,4
+Health Points,Pin Opp,5
+Health Points,Pin Opp,6
+Health Points,SDI,3
+Health Points,SDI,4
+Health Points,SDI,5
+Health Points,SDI,6
+Health Points,Stamina,3
+Health Points,Stamina,4
+Health Points,Stamina,5
+Health Points,Stamina,6
+Health Points,Sub Bonus,3
+Health Points,Sub Bonus,4
+Health Points,Sub Bonus,5
+Health Points,Sub Bonus,6
+Iniative,Attack Bonus,3
+Iniative,Attack Bonus,4
+Iniative,Attack Bonus,5
+Iniative,Attack Bonus,6
+Iniative,Bleed Bonus,3
+Iniative,Bleed Bonus,4
+Iniative,Bleed Bonus,5
+Iniative,Bleed Bonus,6
+Iniative,Block,3
+Iniative,Block,4
+Iniative,Block,5
+Iniative,Block,6
+Iniative,Damage Reducer,3
+Iniative,Damage Reducer,4
+Iniative,Damage Reducer,5
+Iniative,Damage Reducer,6
+Iniative,DDI,3
+Iniative,DDI,4
+Iniative,DDI,5
+Iniative,DDI,6
+Iniative,Dodge,3
+Iniative,Dodge,4
+Iniative,Dodge,5
+Iniative,Dodge,6
+Iniative,Escape Sub,3
+Iniative,Escape Sub,4
+Iniative,Escape Sub,5
+Iniative,Escape Sub,6
+Iniative,Health Points,3
+Iniative,Health Points,4
+Iniative,Health Points,5
+Iniative,Health Points,6
+Iniative,Pin Bonus,3
+Iniative,Pin Bonus,4
+Iniative,Pin Bonus,5
+Iniative,Pin Bonus,6
+Iniative,Pin Opp,3
+Iniative,Pin Opp,4
+Iniative,Pin Opp,5
+Iniative,Pin Opp,6
+Iniative,SDI,3
+Iniative,SDI,4
+Iniative,SDI,5
+Iniative,SDI,6
+Iniative,Stamina,3
+Iniative,Stamina,4
+Iniative,Stamina,5
+Iniative,Stamina,6
+Iniative,Sub Bonus,3
+Iniative,Sub Bonus,4
+Iniative,Sub Bonus,5
+Iniative,Sub Bonus,6
+Pin Bonus,Attack Bonus,3
+Pin Bonus,Attack Bonus,4
+Pin Bonus,Attack Bonus,5
+Pin Bonus,Attack Bonus,6
+Pin Bonus,Bleed Bonus,3
+Pin Bonus,Bleed Bonus,4
+Pin Bonus,Bleed Bonus,5
+Pin Bonus,Bleed Bonus,6
+Pin Bonus,Block,3
+Pin Bonus,Block,4
+Pin Bonus,Block,5
+Pin Bonus,Block,6
+Pin Bonus,Damage Reducer,3
+Pin Bonus,Damage Reducer,4
+Pin Bonus,Damage Reducer,5
+Pin Bonus,Damage Reducer,6
+Pin Bonus,DDI,3
+Pin Bonus,DDI,4
+Pin Bonus,DDI,5
+Pin Bonus,DDI,6
+Pin Bonus,Dodge,3
+Pin Bonus,Dodge,4
+Pin Bonus,Dodge,5
+Pin Bonus,Dodge,6
+Pin Bonus,Escape Sub,3
+Pin Bonus,Escape Sub,4
+Pin Bonus,Escape Sub,5
+Pin Bonus,Escape Sub,6
+Pin Bonus,Health Points,3
+Pin Bonus,Health Points,4
+Pin Bonus,Health Points,5
+Pin Bonus,Health Points,6
+Pin Bonus,Iniative,3
+Pin Bonus,Iniative,4
+Pin Bonus,Iniative,5
+Pin Bonus,Iniative,6
+Pin Bonus,Pin Opp,3
+Pin Bonus,Pin Opp,4
+Pin Bonus,Pin Opp,5
+Pin Bonus,Pin Opp,6
+Pin Bonus,SDI,3
+Pin Bonus,SDI,4
+Pin Bonus,SDI,5
+Pin Bonus,SDI,6
+Pin Bonus,Stamina,3
+Pin Bonus,Stamina,4
+Pin Bonus,Stamina,5
+Pin Bonus,Stamina,6
+Pin Bonus,Sub Bonus,3
+Pin Bonus,Sub Bonus,4
+Pin Bonus,Sub Bonus,5
+Pin Bonus,Sub Bonus,6
+Pin Opp,Attack Bonus,3
+Pin Opp,Attack Bonus,4
+Pin Opp,Attack Bonus,5
+Pin Opp,Attack Bonus,6
+Pin Opp,Bleed Bonus,3
+Pin Opp,Bleed Bonus,4
+Pin Opp,Bleed Bonus,5
+Pin Opp,Bleed Bonus,6
+Pin Opp,Block,3
+Pin Opp,Block,4
+Pin Opp,Block,5
+Pin Opp,Block,6
+Pin Opp,Damage Reducer,3
+Pin Opp,Damage Reducer,4
+Pin Opp,Damage Reducer,5
+Pin Opp,Damage Reducer,6
+Pin Opp,DDI,3
+Pin Opp,DDI,4
+Pin Opp,DDI,5
+Pin Opp,DDI,6
+Pin Opp,Dodge,3
+Pin Opp,Dodge,4
+Pin Opp,Dodge,5
+Pin Opp,Dodge,6
+Pin Opp,Escape Sub,3
+Pin Opp,Escape Sub,4
+Pin Opp,Escape Sub,5
+Pin Opp,Escape Sub,6
+Pin Opp,Health Points,3
+Pin Opp,Health Points,4
+Pin Opp,Health Points,5
+Pin Opp,Health Points,6
+Pin Opp,Iniative,3
+Pin Opp,Iniative,4
+Pin Opp,Iniative,5
+Pin Opp,Iniative,6
+Pin Opp,Pin Bonus,3
+Pin Opp,Pin Bonus,4
+Pin Opp,Pin Bonus,5
+Pin Opp,Pin Bonus,6
+Pin Opp,SDI,3
+Pin Opp,SDI,4
+Pin Opp,SDI,5
+Pin Opp,SDI,6
+Pin Opp,Stamina,3
+Pin Opp,Stamina,4
+Pin Opp,Stamina,5
+Pin Opp,Stamina,6
+Pin Opp,Sub Bonus,3
+Pin Opp,Sub Bonus,4
+Pin Opp,Sub Bonus,5
+Pin Opp,Sub Bonus,6
+SDI,Attack Bonus,3
+SDI,Attack Bonus,4
+SDI,Attack Bonus,5
+SDI,Attack Bonus,6
+SDI,Bleed Bonus,3
+SDI,Bleed Bonus,4
+SDI,Bleed Bonus,5
+SDI,Bleed Bonus,6
+SDI,Block,3
+SDI,Block,4
+SDI,Block,5
+SDI,Block,6
+SDI,Damage Reducer,3
+SDI,Damage Reducer,4
+SDI,Damage Reducer,5
+SDI,Damage Reducer,6
+SDI,DDI,3
+SDI,DDI,4
+SDI,DDI,5
+SDI,DDI,6
+SDI,Dodge,3
+SDI,Dodge,4
+SDI,Dodge,5
+SDI,Dodge,6
+SDI,Escape Sub,3
+SDI,Escape Sub,4
+SDI,Escape Sub,5
+SDI,Escape Sub,6
+SDI,Health Points,3
+SDI,Health Points,4
+SDI,Health Points,5
+SDI,Health Points,6
+SDI,Iniative,3
+SDI,Iniative,4
+SDI,Iniative,5
+SDI,Iniative,6
+SDI,Pin Bonus,3
+SDI,Pin Bonus,4
+SDI,Pin Bonus,5
+SDI,Pin Bonus,6
+SDI,Pin Opp,3
+SDI,Pin Opp,4
+SDI,Pin Opp,5
+SDI,Pin Opp,6
+SDI,Stamina,3
+SDI,Stamina,4
+SDI,Stamina,5
+SDI,Stamina,6
+SDI,Sub Bonus,3
+SDI,Sub Bonus,4
+SDI,Sub Bonus,5
+SDI,Sub Bonus,6
+Stamina,Attack Bonus,3
+Stamina,Attack Bonus,4
+Stamina,Attack Bonus,5
+Stamina,Attack Bonus,6
+Stamina,Bleed Bonus,3
+Stamina,Bleed Bonus,4
+Stamina,Bleed Bonus,5
+Stamina,Bleed Bonus,6
+Stamina,Block,3
+Stamina,Block,4
+Stamina,Block,5
+Stamina,Block,6
+Stamina,Damage Reducer,3
+Stamina,Damage Reducer,4
+Stamina,Damage Reducer,5
+Stamina,Damage Reducer,6
+Stamina,DDI,3
+Stamina,DDI,4
+Stamina,DDI,5
+Stamina,DDI,6
+Stamina,Dodge,3
+Stamina,Dodge,4
+Stamina,Dodge,5
+Stamina,Dodge,6
+Stamina,Escape Sub,3
+Stamina,Escape Sub,4
+Stamina,Escape Sub,5
+Stamina,Escape Sub,6
+Stamina,Health Points,3
+Stamina,Health Points,4
+Stamina,Health Points,5
+Stamina,Health Points,6
+Stamina,Iniative,3
+Stamina,Iniative,4
+Stamina,Iniative,5
+Stamina,Iniative,6
+Stamina,Pin Bonus,3
+Stamina,Pin Bonus,4
+Stamina,Pin Bonus,5
+Stamina,Pin Bonus,6
+Stamina,Pin Opp,3
+Stamina,Pin Opp,4
+Stamina,Pin Opp,5
+Stamina,Pin Opp,6
+Stamina,SDI,3
+Stamina,SDI,4
+Stamina,SDI,5
+Stamina,SDI,6
+Stamina,Sub Bonus,3
+Stamina,Sub Bonus,4
+Stamina,Sub Bonus,5
+Stamina,Sub Bonus,6
+Sub Bonus,Attack Bonus,3
+Sub Bonus,Attack Bonus,4
+Sub Bonus,Attack Bonus,5
+Sub Bonus,Attack Bonus,6
+Sub Bonus,Bleed Bonus,3
+Sub Bonus,Bleed Bonus,4
+Sub Bonus,Bleed Bonus,5
+Sub Bonus,Bleed Bonus,6
+Sub Bonus,Block,3
+Sub Bonus,Block,4
+Sub Bonus,Block,5
+Sub Bonus,Block,6
+Sub Bonus,Damage Reducer,3
+Sub Bonus,Damage Reducer,4
+Sub Bonus,Damage Reducer,5
+Sub Bonus,Damage Reducer,6
+Sub Bonus,DDI,3
+Sub Bonus,DDI,4
+Sub Bonus,DDI,5
+Sub Bonus,DDI,6
+Sub Bonus,Dodge,3
+Sub Bonus,Dodge,4
+Sub Bonus,Dodge,5
+Sub Bonus,Dodge,6
+Sub Bonus,Escape Sub,3
+Sub Bonus,Escape Sub,4
+Sub Bonus,Escape Sub,5
+Sub Bonus,Escape Sub,6
+Sub Bonus,Health Points,3
+Sub Bonus,Health Points,4
+Sub Bonus,Health Points,5
+Sub Bonus,Health Points,6
+Sub Bonus,Iniative,3
+Sub Bonus,Iniative,4
+Sub Bonus,Iniative,5
+Sub Bonus,Iniative,6
+Sub Bonus,Pin Bonus,3
+Sub Bonus,Pin Bonus,4
+Sub Bonus,Pin Bonus,5
+Sub Bonus,Pin Bonus,6
+Sub Bonus,Pin Opp,3
+Sub Bonus,Pin Opp,4
+Sub Bonus,Pin Opp,5
+Sub Bonus,Pin Opp,6
+Sub Bonus,SDI,3
+Sub Bonus,SDI,4
+Sub Bonus,SDI,5
+Sub Bonus,SDI,6
+Sub Bonus,Stamina,3
+Sub Bonus,Stamina,4
+Sub Bonus,Stamina,5
+Sub Bonus,Stamina,6
+Energy Card,Energy Card +3,0
+Energy Card,Energy Card +4,0
+Energy Card,Energy Card +5,0
+Energy Card,Energy Card +6,0
