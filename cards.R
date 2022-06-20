@@ -1,4 +1,30 @@
+
 library(tidyverse)
+
+c(
+  "Health Points", "Stamina", "Iniative", 
+  "Damage Reducer", "Attack Bonus", "DDI", 
+  "Sub Bonus", "SDI", "Pin Bonus", 
+  "Bleed Bonus", "Block", "Dodge", 
+  "Pin Opp", "Escape Sub")
+
+### BASE
+
+
+
+bronze_higher
+
+stats <- c(
+  "Health Points", "Stamina", "Iniative", 
+  "Damage Reducer", "Attack Bonus", "DDI", 
+  "Sub Bonus", "SDI", "Pin Bonus", 
+  "Bleed Bonus", "Block", "Dodge", 
+  "Pin Opp", "Escape Sub")
+
+sample(
+  stats, 10, 
+  replace = TRUE, 
+  prob = c(0.1, 0.05, 0.05, 0.05, 0.1, 0.05, 0.1, 0.1, 0.05, 0.05, 0.1, 0.1, 0.05, 0.05))
 
 bronze <- tibble(
   "Base Stats" = c(
@@ -14,10 +40,11 @@ bronze <- tibble(
   expand(`Base Stats`, `Boosted Stat`, `Energy Cost`) %>%
   filter(!`Base Stats` == `Boosted Stat`) %>%
   add_row(
-    "Base Stats" = c("Energy Card", "Energy Card"),
+    "Base Stats" = rep('Energy Card', 2),
     "Boosted Stat" = c("Energy Card +1", "Energy Card +2"),
-    "Energy Cost" = c(0, 0)
+    "Energy Cost" = rep(0, 2)
   )
+
 
 silver <- tibble(
   "Base Stats" = c(
